@@ -5,7 +5,7 @@ setup(
     version="1.0.0",
     description="A Python library to interact with IoT Meter devices",
     author="lipic",
-    author_email="tvoje.email@example.com",
+    author_email="info@vilmio.com",
     url="https://github.com/lipic/iotmeter_api",
     packages=find_packages(),
     install_requires=[
