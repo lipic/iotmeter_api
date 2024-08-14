@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="iotmeter_api",
-    version="1.0.0",
+    version="1.0.1",
     description="A Python library to interact with IoT Meter devices",
     author="lipic",
     author_email="info@vilmio.com",
